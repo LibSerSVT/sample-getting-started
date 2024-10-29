@@ -28,7 +28,7 @@ The sample application provides a simple example of how to get started with Open
 - `Dockerfile` - The Dockerfile for building the sample
 - `pom.xml` - The Maven POM file
 
-## Build and Run the Sample locally tpp
+## Build and Run the Sample locally
 
 Clone the project
 
